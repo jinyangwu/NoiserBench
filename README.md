@@ -1,8 +1,3 @@
-# NoiserBench
-
-[ACL 25 Main] Official implementation of "[Pandora’s Box or Aladdin’s Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models](https://arxiv.org/abs/2408.13533)".
-
-
 <h1 align="center">
 <br>
 NoiserBench
